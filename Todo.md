@@ -1,0 +1,16 @@
+# TODO
+- Spring Boot 
+- Spring hibernate
+- Spring Security
+- Spring Actuator
+- Microservice architecture
+- Docker container
+- Junit test cases 
+- Integration test cases
+- Behaviour test cases
+- Build pipeline using Jenkins
+- Cloud deployment on AWS using cloud services
+- Code Review 
+- Code Coverage
+- Code Quality
+-  
